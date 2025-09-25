@@ -96,3 +96,5 @@
 </div>
 
 ![Snake Animation](https://github.com/Abdelrahmen-Elashry/Abdelrahmen-Elashry/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Abdelrahmen-Elashry/Abdelrahmen-Elashry/blob/output/dist/snake.svg)
+
