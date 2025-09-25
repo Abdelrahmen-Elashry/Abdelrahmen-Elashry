@@ -16,16 +16,20 @@
 
 ## 🚀 About Me  
 
-<img align="right" height="180" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="data gif"/>
-
-I’m a Junior Data Analyst passionate about Data, Machine Learning, and Artificial Intelligence, with the ambition to grow into a Data Scientist. With a strong enthusiasm for Mathematics, Statistics, and Computer Science, I enjoy unlocking the power of data to deliver meaningful insights. Beyond data, I’m also passionate about Graphic Design, Web Development, and Competitive Programming, continuously learning and sharing knowledge to inspire others and create impact.
-
-- 🔭 Currently working on: **Dashboards & ML-driven insights**  
-- 🌱 Currently learning: **Deep Learning & Cloud for Data Science**  
-- 💼 Open to: **Data Analysis, Science roles & collaborations**  
-- 📫 Reach me at: **abdelrahmenelashry@email.com**  
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
 
 </div>
+
+I’m a Junior Data Analyst passionate about **Data, Machine Learning, and Artificial Intelligence**, with the ambition to grow into a **Data Scientist**.  
+With a strong enthusiasm for **Mathematics, Statistics, and Computer Science**, I enjoy unlocking the power of data to deliver meaningful insights.  
+
+Beyond data, I’m also passionate about **Graphic Design, Web Development, and Competitive Programming**, continuously learning and sharing knowledge to inspire others and create impact.  
+
+- 🔭 **Currently working on:** Dashboards & ML-driven insights  
+- 🌱 **Currently learning:** Deep Learning & Cloud for Data Science  
+- 💼 **Open to:** Data Analysis, Science roles & collaborations  
+- 📫 **Reach me at:** abdelrahmenelashry@email.com  
+
 
 ---
 
