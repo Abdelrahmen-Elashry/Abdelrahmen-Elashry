@@ -1,122 +1,88 @@
+<h1 align="center">Hello, I'm Abdelrahmen Elashry</h1>
+<h3 align="center">Data Scientist | Mathematician | Graphic Designer</h3>
+
+###
+
 <div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahmen-Elashry&label=Profile%20views&color=0e75b6&style=flat)
+  
+  [![My CV](https://img.shields.io/badge/My%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://your-cv-link-here) 
+  [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio-link-here) 
 
-# Hello, I'm Abdelrahmen Elashry 👋
+</div>
 
-### Data Scientist | Mathematician | Graphic Designer
+    
 
-<p align="center">
-  <em>A passionate developer from Egypt 🇪🇬 with a knack for turning data into insights.</em>
-</p>
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
+## 🛠️ Tools & Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="mssql logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+</div>
+
+
+## 🌐 Connect with Me
+<div align="left">
+  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" alt="LinkedIn logo"/>
+  </a>
+  <img width="15" />
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="Gmail logo"/>
+  </a>
+  <img width="15" />
+  <a href="https://www.instagram.com/your-link" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" alt="Instagram logo"/>
+  </a>
+  <img width="15" />
+  <a href="https://www.youtube.com/@your-link" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="40" alt="YouTube logo"/>
+  </a>
+  <img width="15" />
+  <a href="https://discord.gg/your-link" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" height="40" alt="Discord logo"/>
+  </a>
+  <img width="15" />
+  <a href="https://www.facebook.com/your-link" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40" alt="Facebook logo"/>
+  </a>
 </div>
 
 ---
 
-### 👋 About Me
-
-I'm a Data Scientist and Mathematician who loves solving complex problems and building impactful solutions. My journey is driven by a curiosity for understanding the stories hidden within data. When I'm not coding, I enjoy exploring the world of graphic design, creating visuals that communicate ideas effectively.
-
-- 🔭 I’m currently working on **a cool data analysis project**.
-- 🌱 I’m currently learning **advanced deep learning techniques**.
-- 💬 Ask me about **Python, Machine Learning, or Statistics**.
-- 📫 How to reach me: **your-email@gmail.com**
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://your-cv-link-here" target="_blank">
-    <img src="https://img.shields.io/badge/My%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
-  </a>
-  <a href="https://your-portfolio-link-here" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://youtube.com/@your-link" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://facebook.com/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahmen-Elashry&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=Abdelrahmen-Elashry&theme=dark&hide_border=true" height="150" alt="streak graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdelrahmen-Elashry&theme=darkhub&no-frame=true&margin-w=10" height="150" alt="trophy graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahmen-Elashry&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"/>
+</div>
 
 ---
 
-### 🛠️ My Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
-      <br>NumPy
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-      <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="MS SQL" />
-      <br>MS SQL Server
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda" />
-      <br>Anaconda
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahmen-Elashry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahmen-Elashry&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahmen-Elashry&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Abdelrahmen-Elashry/Abdelrahmen-Elashry/output/snake.svg" alt="Snake animation" />
