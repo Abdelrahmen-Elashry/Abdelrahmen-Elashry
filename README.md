@@ -4,11 +4,11 @@
 ###
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahmen-Elashry&label=Profile%20views&color=0e75b6&style=flat)
-
-[![My CV](https://img.shields.io/badge/My%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://your-cv-link-here)  
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-1DA1F2?style=for-the-badge)](https://your-portfolio-link-here)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahmen-Elashry&label=Profile%20views&color=0e75b6&style=flat)
+  
+  [![My CV](https://img.shields.io/badge/My%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://your-cv-link-here) 
+  [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio-link-here) 
 
 </div>
 
