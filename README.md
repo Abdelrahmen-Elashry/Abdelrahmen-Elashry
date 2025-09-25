@@ -1,8 +1,7 @@
-# Hello, I'm Abdelrahmen Elashry 👋
+<h1 align="center">Hello, I'm Abdelrahmen Elashry</h1>
+<h3 align="center">Data Scientist | Statistician | AI & ML Enthusiast</h3>
 
 <div align="center">
-  
-### Data Scientist | Mathematician | AI Enthusiast
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahmen-Elashry&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Abdelrahmen-Elashry)
 [![GitHub Followers](https://img.shields.io/github/followers/Abdelrahmen-Elashry?style=social)](https://github.com/Abdelrahmen-Elashry)
@@ -13,15 +12,20 @@
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-I'm a passionate Data Scientist and Mathematician with a strong foundation in statistical analysis, machine learning, and data visualization. I enjoy transforming complex data into actionable insights and building intelligent solutions.
+## 🚀 About Me  
 
-- 🔭 Currently working on: **Advanced predictive modeling projects**
-- 🌱 Currently learning: **Deep Learning & Cloud Technologies**
-- 💼 Open to: **Data Science opportunities and collaborations**
-- 📫 Reach me at: **abdelrahmen.elashry@email.com**
-- ⚡ Fun fact: **I love solving mathematical puzzles and creating data-driven art**
+<img align="right" height="180" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="data gif"/>
+
+I’m a Junior Data Analyst passionate about Data, Machine Learning, and Artificial Intelligence, with the ambition to grow into a Data Scientist. With a strong enthusiasm for Mathematics, Statistics, and Computer Science, I enjoy unlocking the power of data to deliver meaningful insights. Beyond data, I’m also passionate about Graphic Design, Web Development, and Competitive Programming, continuously learning and sharing knowledge to inspire others and create impact.
+
+- 🔭 Currently working on: **Dashboards & ML-driven insights**  
+- 🌱 Currently learning: **Deep Learning & Cloud for Data Science**  
+- 💼 Open to: **Data Analysis, Science roles & collaborations**  
+- 📫 Reach me at: **abdelrahmenelashry@email.com**  
+
+</div>
 
 ---
 
