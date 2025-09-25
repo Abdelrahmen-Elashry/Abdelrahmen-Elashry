@@ -16,11 +16,30 @@
 
 ## 🚀 About Me  
 
-<img 
-  align="right" 
-  height="180" 
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-  alt="data gif"/>
+<table>
+  <tr>
+    <td>
+
+## 🚀 About Me
+
+I’m a Junior Data Analyst passionate about **Data, ML & AI**.  
+- 🔭 **Currently working on:** Dashboards & ML-driven insights  
+- 🌱 **Currently learning:** Deep Learning & Cloud for Data Science  
+- 💼 **Open to:** Data Analysis / Science roles & collaborations  
+- 📫 **Reach me at:** abdelrahmenelashry@email.com
+
+    </td>
+
+    <!-- spacer column -->
+    <td width="24"></td>
+
+    <!-- image column -->
+    <td valign="top">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" alt="data gif" />
+    </td>
+  </tr>
+</table>
+
 
 </div>
 
