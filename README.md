@@ -19,7 +19,6 @@
 <img 
   align="right" 
   height="180" 
-  style="margin: 15px; border-radius: 15px;" 
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
   alt="data gif"/>
 
