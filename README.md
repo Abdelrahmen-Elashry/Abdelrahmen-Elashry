@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Abdelrahmen Elashry</h1>
-<h3 align="center">Data Scientist | Statistician | AI & ML Enthusiast</h3>
+<h3 align="center">Data Scientist | Mathematician | AI & ML Enthusiast</h3>
 
 <div align="center">
 
