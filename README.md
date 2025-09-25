@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Abdelrahmen Elashry</h2>
+<h1 align="center">Hello, I'm Abdelrahmen Elashry</h1>
 <h3 align="center">Data Scientist | Statistician | AI & ML Enthusiast</h3>
 
 <div align="center">
@@ -25,7 +25,6 @@
 ###
 
 <div align="left">
-  
   I’m a Junior Data Analyst passionate about **Data, Machine Learning, and Artificial Intelligence**, with the ambition to grow into a **Data Scientist**.  
   With a strong enthusiasm for **Mathematics, Statistics, and Computer Science**, I enjoy unlocking the power of data to deliver meaningful insights.  
   
