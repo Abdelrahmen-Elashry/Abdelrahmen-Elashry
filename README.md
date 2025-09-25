@@ -26,7 +26,7 @@
 
 <div align="left">
   
-  I’m a Junior Data Analyst passionate about **Data, Machine Learning, and Artificial Intelligence**, with the ambition to grow into a **Data Scientist**.  
+  I’m a Junior Data Analyst passionate about **Data Science, Machine Learning, and Artificial Intelligence**, with the ambition to grow into a **Data Scientist**.  
   With a strong enthusiasm for **Mathematics, Statistics, and Computer Science**, I enjoy unlocking the power of data to deliver meaningful insights.  
   
   Beyond data, I’m also passionate about **Graphic Design, Web Development, and Competitive Programming**, continuously learning and sharing knowledge to inspire others and create impact.  
