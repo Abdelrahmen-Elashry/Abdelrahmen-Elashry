@@ -12,7 +12,6 @@
 
 </div>
 
----
 
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
@@ -43,7 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 </div>
 
----
 
 ## 🌐 Connect with Me
 <div align="left">
