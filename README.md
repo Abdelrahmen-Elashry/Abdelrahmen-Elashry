@@ -16,7 +16,7 @@
 
 ## 🚀 About Me  
 
-<img align="right" height="180", margin="5" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
+<img align="right" height="180" style="margin-left: 20px; margin-bottom: 10px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
 
 </div>
 
