@@ -6,7 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahmen-Elashry&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Abdelrahmen-Elashry)
 [![GitHub Followers](https://img.shields.io/github/followers/Abdelrahmen-Elashry?style=social)](https://github.com/Abdelrahmen-Elashry)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abdelrahmen-elashry)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:abdelrahmenelashry@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](abdelrahmenelashry@email.com)
 
 </div>
 
