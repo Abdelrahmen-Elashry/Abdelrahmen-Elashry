@@ -46,40 +46,9 @@ I'm a passionate Data Scientist and Mathematician with a strong foundation in st
 
 <div align="center">
   
-![Abdelrahmen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelrahmen-Elashry&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahmen-Elashry&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Abdelrahmen-Elashry&theme=radical&hide_border=true)
-
-</div>
-
-## 🎯 Featured Projects
-
-### 🤖 Machine Learning Projects
-- **[Predictive Analytics Suite](https://github.com/Abdelrahmen-Elashry/predictive-analytics)** - Advanced ML models for business forecasting
-- **[Computer Vision Toolkit](https://github.com/Abdelrahmen-Elashry/computer-vision)** - Image processing and object detection solutions
-- **[NLP Text Analyzer](https://github.com/Abdelrahmen-Elashry/nlp-analyzer)** - Natural language processing applications
-
-### 📊 Data Analysis
-- **[Data Visualization Dashboard](https://github.com/Abdelrahmen-Elashry/data-dashboard)** - Interactive dashboards for data insights
-- **[Statistical Analysis Toolkit](https://github.com/Abdelrahmen-Elashry/statistical-analysis)** - Comprehensive statistical methods implementation
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahmen-elashry)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahmen-Elashry)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
-
-</div>
-
----
-
-<div align="center">
-  
-⭐️ From [Abdelrahmen Elashry](https://github.com/Abdelrahmen-Elashry)
+<img src="https://github-readme-stats.vercel.app/api?username=Abdelrahmen-Elashry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+<img src="https://streak-stats.demolab.com?user=Abdelrahmen-Elashry&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahmen-Elashry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
 </div>
 
