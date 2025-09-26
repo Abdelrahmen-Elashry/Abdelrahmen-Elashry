@@ -82,7 +82,7 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="powerbi logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
