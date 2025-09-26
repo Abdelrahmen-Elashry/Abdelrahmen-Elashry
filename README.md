@@ -78,7 +78,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://learn.microsoft.com/en-us/power-bi/fundamentals/media/power-bi-logo.png" height="40" alt="Power BI logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
   <img width="12" />
