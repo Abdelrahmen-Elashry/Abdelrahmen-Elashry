@@ -34,7 +34,7 @@
   - 🔭 **Currently working on:** Dashboards & ML-driven insights  
   - 🌱 **Currently learning:** Deep Learning & Cloud for Data Science  
   - 💼 **Open to:** Data Analysis, Science roles & collaborations  
-  - 📫 **Reach me at:** abdelrahmenelashry@email.com
+  - 📫 **Reach me at:** abdelrahmenelashry@email.com 
 
 </div>
 
